@@ -8,11 +8,13 @@ These will help make your life as a developer easier as well as ensure your Visu
 
 
 # Overview
-1. [C# Keybindings](https://github.com/AdamAtCorhio/Documentation/new/main#keybindings)
-2. [Visual Studio Project Templates](https://github.com/AdamAtCorhio/Documentation/new/main#visual-studio-project-templates)
-3. [.editorconfig](https://github.com/AdamAtCorhio/Documentation/new/main#editorconfig)
-4. [Naming Styles](https://github.com/AdamAtCorhio/Documentation/new/main#naming-styles)
-5. [General guidelines & Suggestions](https://github.com/AdamAtCorhio/Documentation/new/main#general-guidelines--suggestions)
+1. [C# Keybindings](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#keybindings)
+2. [Visual Studio Project Templates](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#visual-studio-project-templates)
+3. [.editorconfig](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#editorconfig)
+4. [Naming Styles](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#naming-styles)
+5. [General guidelines & Suggestions](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#general-guidelines--suggestions)
+
+
 
 
 
