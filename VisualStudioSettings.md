@@ -8,11 +8,11 @@ These will help make your life as a developer easier as well as ensure your Visu
 
 
 # Overview
-1. [C# Keybindings](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#keybindings)
-2. [Visual Studio Project Templates](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#visual-studio-project-templates)
-3. [.editorconfig](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#editorconfig)
-4. [Naming Styles](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#naming-styles)
-5. [General guidelines & Suggestions](https://github.com/AdamAtCorhio/Documentation/blob/main/VisualStudioSettings.md#general-guidelines--suggestions)
+1. [C# Keybindings](/VisualStudioSettings.md#keybindings)
+2. [Visual Studio Project Templates](/VisualStudioSettings.md#visual-studio-project-templates)
+3. [.editorconfig](/VisualStudioSettings.md#editorconfig)
+4. [Naming Styles](/VisualStudioSettings.md#naming-styles)
+5. [General guidelines & Suggestions](/VisualStudioSettings.md#general-guidelines--suggestions)
 
 
 
@@ -32,7 +32,7 @@ In Visual Studio, go to Tool -> Options
 In the options dialog, select Keyboard and make sure the dropdown at the top of the right panel has 'Visual C# 2005' selected:
 
 
-![Obey Projects' .editorconfig Settings](https://github.com/AdamAtCorhio/Documentation/blob/main/images/csharp-keybindings.png)
+![Obey Projects' .editorconfig Settings](/images/csharp-keybindings.png)
 
 This allows you to use Visual Studio C# shortcuts when coding, such as F2 to rename the object at the caret cursor, and all instances in scope, or F12 to go the definition of the object at the caret cursor.
 
@@ -80,7 +80,7 @@ In Visual Studio, go to Tool -> Options
 In the options dialog, select Text Editor -> General and ensure the 'Follow project coding conventions' checkbox is checked:
 
 
-![Obey Projects' .editorconfig Settings](https://github.com/AdamAtCorhio/Documentation/blob/main/images/obey-project-editorconfig.png)
+![Obey Projects' .editorconfig Settings](/images/obey-project-editorconfig.png)
 
 This will ensure your visual studio conforms to the formatting specified in the project.
 
@@ -103,13 +103,13 @@ In the options dialog, select Text Editor -> C# -> Code Style -> Naming
 
 We are going to add 3 sections.
  
-![Screenshot](https://github.com/AdamAtCorhio/Documentation/blob/main/images/Picture1.png)
+![Screenshot](/images/Picture1.png)
 
 #### Private or Internal Field 
 
 1. Click Manage Specifications 
 
-![Screenshot](https://github.com/AdamAtCorhio/Documentation/blob/main/images/Picture2.png)
+![Screenshot](/images/Picture2.png)
 
 2. Ensure Private or Internal Field looks as above 
 
@@ -117,15 +117,15 @@ We are going to add 3 sections.
 
 4. Click New 
 
-![Screenshot](https://github.com/AdamAtCorhio/Documentation/blob/main/images/Picture3.png)
+![Screenshot](/images/Picture3.png)
 
 5. Enter these fields for Private _ 
 
-![Screenshot](https://github.com/AdamAtCorhio/Documentation/blob/main/images/Picture4.png)
+![Screenshot](/images/Picture4.png)
 
 6. Click add new Rule 
 
-![Screenshot](https://github.com/AdamAtCorhio/Documentation/blob/main/images/Picture5and7.png)
+![Screenshot](/images/Picture5and7.png)
 
 7. Fill in Private or Internal Field and Private _ and SUGGESTION and click the Reorder arrows until it is the first option. 
 
@@ -139,11 +139,11 @@ We are going to add 3 sections.
 
 1. Click Manage Styles and add a new Style 
 
-![Screenshot](https://github.com/AdamAtCorhio/Documentation/blob/main/images/Picture6.png)
+![Screenshot](/images/Picture6.png)
 
 2. Click add new Rule 
 
-![Screenshot](https://github.com/AdamAtCorhio/Documentation/blob/main/images/Picture5and7.png).png)
+![Screenshot](/images/Picture5and7.png).png)
 
 3. Choose Enum and All Upper and Separated by _ and ERROR and move it to second highest slot by the Reorder arrows. 
 
